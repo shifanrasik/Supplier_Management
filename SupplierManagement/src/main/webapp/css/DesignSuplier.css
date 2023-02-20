@@ -1,0 +1,66 @@
+@charset "UTF-8";
+body {
+  font-family: Helvetica, Arial,  sans-serif;
+  background-color: rgb(64, 0, 64);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.con {
+  padding: 16.3px;
+  background-color: rgb(255, 255, 255);
+}
+
+/* Full-width input fields */
+input[type=text] {
+  width: 100%;
+  padding: 15.2px;
+  margin: 5.1px 0 22.1px 0;
+  display: inline-block;
+  border: none;
+  background: #f2f1f1;
+}
+
+textarea[type=text] {
+  width: 100%;
+  padding: 15.2px;
+  margin: 5.1px 0 22.2px 0;
+  display: inline-block;
+  border: none;
+  background: #f2f1f1;
+}
+textarea[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.rbtn {
+  background-color: #04BA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.rbtn:hover {
+  opacity: 1;
+}
+
+
+
+
