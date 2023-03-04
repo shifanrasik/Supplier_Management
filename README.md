@@ -6,8 +6,7 @@ the appropriate accreditations in place
 
 • Add/ update/ remove supplier.
 
-• Track products.
-This function allows to view current status (processing, shipped, delivered) and location of the ordered product.
+• Track products(Order Processing, Pre-Production, In Production, shipped, delivered)
 
 • Rate supplier.
 Rate supplier according to the performance based on delivery time and quality of product.
